@@ -1,2 +1,4 @@
 // Your code here
-function createEmployee
+function createEmployeeRecord(){
+  
+}
